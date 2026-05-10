@@ -2,8 +2,6 @@
 
 I build production quant systems — probabilistic models, risk management, and the boring-but-load-bearing operational scaffolding around them. Currently working on prediction-market trading and the Claude / Cowork plugin ecosystem.
 
-BA Economics (Wisconsin), BS Psychology (UCF). Based in the U.S.
-
 ---
 
 ### Featured work
