@@ -4,7 +4,7 @@ I build production quant systems — probabilistic models, risk management, and 
 
 ---
 
-### Featured work
+### Featured Work
 
 **[GEO — The Kalshi Weather Bot](https://github.com/apeabody007/GEO-The-Kalshi-Weather-Bot-DEMO)** &nbsp;·&nbsp; live preview: [apeabody007.github.io/GEO-The-Kalshi-Weather-Bot-DEMO](https://apeabody007.github.io/GEO-The-Kalshi-Weather-Bot-DEMO/)
 
@@ -16,7 +16,7 @@ A Cowork plugin distilled from operating GEO. Nine skills: Kelly sizing, calibra
 
 ---
 
-### Stack & focus areas
+### Stack & Focus Areas
 
 Python 3.11. Probabilistic forecasting (EMOS / Platt scaling / ensemble blending). Market microstructure (maker-taker fees, adverse selection, order-book dynamics). Risk management (fractional Kelly, drawdown control, position caps). Backtesting with honest execution assumptions. Reliability engineering for systems that handle money (single-instance locks, circuit breakers, structured pre-flight checks). SQLite. Tailscale-private PWAs. Claude Agent SDK + Cowork plugin development.
 
