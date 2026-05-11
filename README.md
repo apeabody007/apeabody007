@@ -6,7 +6,7 @@ I build production quant systems — probabilistic models, risk management, and 
 
 ### Featured Work
 
-**[GEO — The Kalshi Weather Bot](https://github.com/apeabody007/GEO-The-Kalshi-Weather-Bot-DEMO)** &nbsp;·&nbsp; live preview: [apeabody007.github.io/GEO-The-Kalshi-Weather-Bot-DEMO](https://apeabody007.github.io/GEO-The-Kalshi-Weather-Bot-DEMO/)
+**[GEO — The Kalshi Weather Bot (DEMO)](https://github.com/apeabody007/GEO-The-Kalshi-Weather-Bot-DEMO)** &nbsp;·&nbsp; live preview: [apeabody007.github.io/GEO-The-Kalshi-Weather-Bot-DEMO](https://apeabody007.github.io/GEO-The-Kalshi-Weather-Bot-DEMO/)
 
 A live algorithmic trading system for Kalshi weather prediction markets. Multi-model probabilistic forecast (ECMWF + GFS + HRRR + NBM + GraphCast + AIFS) with per-station EMOS bias correction, fractional-Kelly sizing under stacked risk caps, maker-only pricing, signed REST client, SQLite trade ledger, a server-rendered PWA dashboard, ~110 pytest cases, and reconciliation against the exchange's official settlement source. Public repo is a read-only preview; source is private.
 
