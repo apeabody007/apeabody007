@@ -16,7 +16,8 @@ Live algorithmic trading system on Kalshi's CFTC-regulated daily-high-temperatur
 - **Maker-only execution** — limits at `ceil(ask × 100) − 1` for 0% fees; single-instance `fcntl` lock; fill-watch re-quoting
 - **Backtest-gated promotion** — every production change validated against historical data before it goes live
 
-→ [`GEO-The-Kalshi-Weather-Bot`](https://github.com/apeabody007/GEO-The-Kalshi-Weather-Bot)
+→ Source: [`GEO-The-Kalshi-Weather-Bot-DEMO`](https://github.com/apeabody007/GEO-The-Kalshi-Weather-Bot-DEMO)
+→ Live demo: [apeabody007.github.io/GEO-The-Kalshi-Weather-Bot-DEMO](https://apeabody007.github.io/GEO-The-Kalshi-Weather-Bot-DEMO/)
 
 ---
 
@@ -48,4 +49,4 @@ I think in systems, behavior, and incentives. Equally comfortable with the mecha
 
 ### Contact
 
-[apeabody@uwalumni.com](mailto:apeabody@uwalumni.com) · [LinkedIn](https://www.linkedin.com/in/apeabody)
+[apeabody@uwalumni.com](mailto:apeabody@uwalumni.com) · [LinkedIn](https://www.linkedin.com/in/aaronpeabody7/)
