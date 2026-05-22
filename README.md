@@ -1,27 +1,51 @@
-### Aaron Peabody
+## Aaron Peabody
 
-I build production quant systems — probabilistic models, risk management, and the boring-but-load-bearing operational scaffolding around them. Currently working on prediction-market trading and the Claude / Cowork plugin ecosystem.
+**Applied analytics · intelligent systems · probabilistic decision automation**
 
----
-
-### Featured Work
-
-**[GEO — The Kalshi Weather Bot (DEMO)](https://github.com/apeabody007/GEO-The-Kalshi-Weather-Bot-DEMO)** &nbsp;·&nbsp; live preview: [apeabody007.github.io/GEO-The-Kalshi-Weather-Bot-DEMO](https://apeabody007.github.io/GEO-The-Kalshi-Weather-Bot-DEMO/)
-
-A live algorithmic trading system for Kalshi weather prediction markets. Multi-model probabilistic forecast (ECMWF + GFS + HRRR + NBM + GraphCast + AIFS) with per-station EMOS bias correction, fractional-Kelly sizing under stacked risk caps, maker-only pricing, signed REST client, SQLite trade ledger, a server-rendered PWA dashboard, ~110 pytest cases, and reconciliation against the exchange's official settlement source. Public repo is a read-only preview; source is private.
-
-**[Quant Toolkit](https://github.com/apeabody007/Quant-toolkit)** &nbsp;·&nbsp; the framework, abstracted
-
-A Cowork plugin distilled from operating GEO. Nine skills: Kelly sizing, calibration audit, backtest harness, EMOS bias correction, maker pricing, P&L attribution, market scanning, pre-flight checklist, drawdown monitor. Venue-agnostic — works against any binary contract priced in [0, 1]. MIT.
+I design and operate production decision systems — the kind that ingest noisy real-world data, turn it into well-calibrated probabilities, and act on them under risk controls. End-to-end ownership from data ingestion through automated action and post-hoc P&L attribution.
 
 ---
 
-### Stack & Focus Areas
+### Current focus — GEO · Kalshi Weather Bot
 
-Python 3.11. Probabilistic forecasting (EMOS / Platt scaling / ensemble blending). Market microstructure (maker-taker fees, adverse selection, order-book dynamics). Risk management (fractional Kelly, drawdown control, position caps). Backtesting with honest execution assumptions. Reliability engineering for systems that handle money (single-instance locks, circuit breakers, structured pre-flight checks). SQLite. Tailscale-private PWAs. Claude Agent SDK + Cowork plugin development.
+Live algorithmic trading system on Kalshi's CFTC-regulated daily-high-temperature prediction markets across 20 US cities. Real money, maker-only execution, behind a 15-minute Telegram approval gate.
+
+- **Six-model probabilistic ensemble** — NBM, GFS, ECMWF 51-member, HRRR, NWS gridded, MOS
+- **Per-(model × station) EMOS calibration** — Platt scaling fit on a 152K-row two-year backtest; +26.7% Brier reduction on holdout
+- **Quarter-Kelly sizing** — disagreement-weighted multiplier, soft-drawdown derisking, asymmetric edge gates, 50¢ side-cost floor derived from P&L attribution
+- **Maker-only execution** — limits at `ceil(ask × 100) − 1` for 0% fees; single-instance `fcntl` lock; fill-watch re-quoting
+- **Backtest-gated promotion** — every production change validated against historical data before it goes live
+
+→ [`GEO-The-Kalshi-Weather-Bot`](https://github.com/apeabody007/GEO-The-Kalshi-Weather-Bot)
+
+---
+
+### Stack
+
+Python 3.11 · SQLite · NumPy / SciPy · REST APIs (incl. RSA-PSS authenticated trading endpoints) · launchd · pytest + AST-based invariant tests · Playwright
+
+Data feeds: NOAA GHCND · NWS api.weather.gov · Open-Meteo (ECMWF / GFS / HRRR / NBM) · METAR · NWS Climate Reports · NWS MOS
+
+---
+
+### Operating principles
+
+- **Backtest before promote.** Every change to filters, sizing, or model weights gets validated on historical data before it touches live capital.
+- **Brier improvement ≠ trustworthy calibration.** Always audit the shape of a fitted curve, not just its score.
+- **The crowd is usually right at extremes.** 1¢ and 99¢ markets carry real information; encode the skepticism as a hard veto, not a soft filter.
+- **Encode expensive lessons into filters or tests.** Memory is lossy; AST-pinned invariants and dated investigation memos aren't.
+
+---
+
+### Background
+
+BA Economics — University of Wisconsin–Madison
+BS Psychology — University of Central Florida
+
+I think in systems, behavior, and incentives. Equally comfortable with the mechanics of an ensemble forecaster and the second-order effects of how a system's design changes the behavior of the people who interact with it.
 
 ---
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/aaronpeabody7/) for hiring inquiries or collaboration.
+[apeabody@uwalumni.com](mailto:apeabody@uwalumni.com) · [LinkedIn](https://www.linkedin.com/in/apeabody)
