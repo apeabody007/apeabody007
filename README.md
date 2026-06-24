@@ -1,5 +1,5 @@
 
-# Hi, I'm Aaron Peabody. You can call me Peabody.
+# Hi, I'm Aaron Peabody. /wave 
 
 **Director of Technology / Senior Project Manager @ Doctor Asphalt LLC**
 
