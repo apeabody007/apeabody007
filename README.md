@@ -16,7 +16,7 @@ I build software that real teams actually use — internal operations tools by d
 **DA Intelligence** — a TypeScript monorepo (pnpm workspaces) for Doctor Asphalt's operations team:
 
 - **Crew App** — a React Native / Expo mobile app putting things like scheduling, job details, time tracking, and reporting in field crews' hands across multiple crews.
-- **Operations Dashboard** — a web app giving the ops team a real-time view of [project status, crew utilization, job estimates, and scheduling].
+- **Operations Dashboard** — a web app giving the ops team a real-time view of project status, crew utilization, job estimates, and scheduling.
 - Shared API, Clerk authentication with role-based access (admins / supervisors), and GitHub Actions CI/CD.
 
 ---
