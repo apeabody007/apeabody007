@@ -5,13 +5,13 @@
 
 I build software that real teams actually use — internal operations tools by day, and a steady stream of Python systems, Claude plugins, and game projects on my own time. I like turning a messy real-world process into something that runs on clean data and a good interface. If it can be built, I can do it.
 
-- 🏗️ **At work:** Promoted to Director of Technology, where I lead **DA Intelligence** — a TypeScript monorepo housing a field **Crew App** (React Native / Expo) and a real-time **operations dashboard** (web) — while still running regional projects as Senior PM.
-- 🧠 **On my own:** prediction-market quant systems, MCP servers, and the odd game engine.
+**At work:** Promoted to Director of Technology, where I lead **DA Intelligence** — a TypeScript monorepo housing a field **Crew App** (React Native / Expo) and a real-time **operations dashboard** (web) — while still running regional projects as Senior PM.
+**On my own:** prediction-market quant systems, MCP servers, and the odd game engine.
 - 🎓 B.A. Economics (UW–Madison) · B.S. Psychology (UCF)
 
 ---
 
-### 🏗️ What I'm building at work
+### What I'm building at work
 
 **DA Intelligence** — a TypeScript monorepo (pnpm workspaces) for Doctor Asphalt's operations team:
 
@@ -21,7 +21,7 @@ I build software that real teams actually use — internal operations tools by d
 
 ---
 
-### 🚀 Selected Open-Source Projects
+### Selected Open-Source Projects
 
 **[Quant-toolkit](https://github.com/apeabody007/Quant-toolkit)** · Python · MIT
 A Cowork/Claude plugin for prediction-market trading — Kelly sizing, calibration audits, a backtest harness, EMOS bias correction, P&L attribution, maker pricing, and pre-flight safety checks. Venue-agnostic.
@@ -40,7 +40,7 @@ An Emerald ROM hack — Gastly as a starter that evolves to Gengar without tradi
 
 ---
 
-### 🛠️ Tech I reach for
+### Tech I reach for first
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-333?logo=python)
@@ -53,7 +53,7 @@ TypeScript · Python · React Native / Expo · monorepo architecture (pnpm) · M
 
 ---
 
-### 📫 Reach me
+### 📫 Reach me @
 
 - LinkedIn: [in/aaronpeabody7](https://www.linkedin.com/in/aaronpeabody7)
 - Email: apeabody@uwalumni.com
