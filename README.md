@@ -53,7 +53,7 @@ TypeScript · Python · React Native / Expo · monorepo architecture (pnpm) · M
 
 ---
 
-### 📫 Reach me @
+### 📫 
 
 - LinkedIn: [in/aaronpeabody7](https://www.linkedin.com/in/aaronpeabody7)
 - Email: apeabody@uwalumni.com
