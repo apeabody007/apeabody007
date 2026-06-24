@@ -3,7 +3,7 @@
 
 **Director of Technology / Senior Project Manager @ Doctor Asphalt LLC**
 
-I build software that real teams actually use — internal operations tools by day, and a steady stream of Python systems, Claude plugins, and game projects on my own time. I like turning a messy real-world process into something that runs on clean data and a good interface.
+I build software that real teams actually use — internal operations tools by day, and a steady stream of Python systems, Claude plugins, and game projects on my own time. I like turning a messy real-world process into something that runs on clean data and a good interface. If it can be built, I can do it.
 
 - 🏗️ **At work:** Promoted to Director of Technology, where I lead **DA Intelligence** — a TypeScript monorepo housing a field **Crew App** (React Native / Expo) and a real-time **operations dashboard** (web) — while still running regional projects as Senior PM.
 - 🧠 **On my own:** prediction-market quant systems, MCP servers, and the odd game engine.
