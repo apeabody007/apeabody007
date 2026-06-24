@@ -1,5 +1,5 @@
 
-# Hi, I'm Aaron Peabody 👋
+# Hi, I'm Aaron Peabody. You can call me Peabody.
 
 **Director of Technology / Senior Project Manager @ Doctor Asphalt LLC**
 
@@ -36,7 +36,7 @@ A zero-dependency MCP server + Claude plugin that connects Claude to Apple Numbe
 A top-down Aztec-myth action game — my playground for game-feel, state machines, and engine work.
 
 **[Pokémon: Gengar Edition](https://github.com/apeabody007/Pokemon-Gengar-Edition-Emerald-Hack-)** · Python
-An Emerald ROM hack — Gastly as a starter that evolves to Gengar without trading, a 36-move learnset, wild legendaries, and 7 more quality-of-life patches.
+A Pokémon: Emerald ROM hack — Gastly as a starter that evolves to Gengar without trading, a 36-move learnset, wild legendaries, and 7 more quality-of-life updates.
 
 ---
 
