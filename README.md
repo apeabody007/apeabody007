@@ -33,7 +33,7 @@ A real-money algorithmic trading bot on Kalshi's CFTC-regulated weather markets.
 A zero-dependency MCP server + Claude plugin that connects Claude to Apple Numbers via AppleScript — read, write, and manipulate spreadsheets directly.
 
 **O.C. and the Fifth Sun** · GDScript (Godot 4)
-A top-down Aztec-myth action game — my playground for game-feel, state machines, and engine work.
+A top-down Aztec-myth action game — my playground for game-feel, state machines, and engine work. References are Mina the Hollower, Blasphemous, and Hollow Knight.
 
 **[Pokémon: Gengar Edition](https://github.com/apeabody007/Pokemon-Gengar-Edition-Emerald-Hack-)** · Python
 A Pokémon: Emerald ROM hack — Gastly as a starter that evolves to Gengar without trading, a 36-move learnset, wild legendaries, and 7 more quality-of-life updates.
