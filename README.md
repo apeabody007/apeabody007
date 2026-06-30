@@ -26,7 +26,7 @@ I build software that real teams actually use — internal operations tools by d
 **[Quant-toolkit](https://github.com/apeabody007/Quant-toolkit)** · Python · MIT
 A Cowork/Claude plugin for prediction-market trading — Kelly sizing, calibration audits, a backtest harness, EMOS bias correction, P&L attribution, maker pricing, and pre-flight safety checks. Venue-agnostic.
 
-**[GEO – The Kalshi Weather Bot](https://github.com/apeabody007/GEO-The-Kalshi-Weather-Bot-DEMO) (DEMO, full repo is private)** · Python · PWA
+**[GEO – The Kalshi Weather Bot (DEMO)](https://github.com/apeabody007/GEO-The-Kalshi-Weather-Bot-DEMO) (full repo is private)** · Python · PWA
 A real-money algorithmic trading bot on Kalshi's CFTC-regulated weather markets. Six-model ensemble with per-station bias correction and quarter-Kelly sizing, identifying mispriced YES/NO contracts on daily high temps across 20 U.S. cities.
 
 **[Digits](https://github.com/apeabody007/Digits)** · Python · MIT
