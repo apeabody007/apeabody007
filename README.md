@@ -40,14 +40,14 @@ A top-down Aztec-myth action game — my playground for game-feel, state machine
 
 ---
 
-### Tech I know
+### Tech/Languages/Software
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-333?logo=python)
 ![React Native](https://img.shields.io/badge/-React_Native-333?logo=react)
+![SQLite](https://img.shields.io/badge/-SQLite-333?logo=sqlite)
 ![Expo](https://img.shields.io/badge/-Expo-333?logo=expo)
 ![GDScript](https://img.shields.io/badge/-GDScript-333?logo=godotengine)
-![SQLite](https://img.shields.io/badge/-SQLite-333?logo=sqlite)
 
 TypeScript · Python · React Native / Expo · monorepo architecture (pnpm) · MCP / Claude plugins · Clerk auth · GitHub Actions CI/CD · algorithmic trading & probabilistic forecasting · PWAs · Godot
 
