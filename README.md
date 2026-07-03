@@ -40,7 +40,7 @@ A top-down Aztec-myth action game — my playground for game-feel, state machine
 
 ---
 
-### Tech I reach for first
+### Tech I know
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-333?logo=python)
