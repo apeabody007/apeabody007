@@ -8,8 +8,8 @@ I build software that real teams actually use — internal operations tools by d
 **At work:** Promoted to Director of Technology, where I am building **DA Intelligence** — a TypeScript monorepo housing a field **Crew App** (React Native / Expo) and a real-time **operations dashboard** (web) — while still running regional projects as Senior PM.
 **On my own:** prediction-market quant systems, MCP servers, and the odd game engine.
 
-- 🦡 B.A. Economics (UW–Madison)
-- ♘ B.S. Psychology (UCF)
+🦡 B.A. Economics (UW–Madison)
+♘ B.S. Psychology (UCF)
 
 ---
 
