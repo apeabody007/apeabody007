@@ -54,7 +54,9 @@ A top-down Aztec-myth action game and my playground for game-feel, state machine
 ![SQLite](https://img.shields.io/badge/-SQLite-333?logo=sqlite)
 ![GDScript](https://img.shields.io/badge/-GDScript-333?logo=godotengine)
 
-TypeScript · Python · React Native / Expo · monorepo architecture (pnpm) · PostgreSQL / Drizzle ORM · tRPC · MCP / Claude plugins · Clerk auth · GitHub Actions CI/CD · EAS over-the-air deploys · algorithmic trading & probabilistic forecasting · PWAs · Godot
+**Languages:** TypeScript · Python · GDScript <br>
+**Stack:** React Native / Expo · pnpm monorepos · PostgreSQL / Drizzle ORM · tRPC · Clerk · GitHub Actions CI/CD · EAS over-the-air deploys · PWAs <br>
+**Domains:** field operations & job-costing platforms · MCP servers & Claude plugins · algorithmic trading & probabilistic forecasting · game dev (Godot)
 
 ---
 
