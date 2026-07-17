@@ -4,8 +4,11 @@
 
 I build software that real teams actually use: internal operations tools by day, and a steady stream of Python systems, Claude plugins, and game projects on my own time. I like turning a messy real-world process into something that runs on clean data and a smooth interface.
 
-**At work:** Promoted to Director of Technology, where I am building **DA Intelligence**, a TypeScript monorepo housing a field **Crew App** (React Native / Expo) and a real-time **operations dashboard** (web), while still running regional projects as Senior PM.
+**At work:** Promoted to Director of Technology, where I am building **DA Intelligence**, a TypeScript monorepo housing a field **Crew App** (React Native / Expo) and a real-time **operations dashboard** (web), while still running regional projects as Senior PM. <br>
 **On my own:** prediction-market quant systems, MCP servers, and the odd game engine.
+
+- B.A. Economics (UW–Madison)
+- B.S. Psychology (UCF)
 
 ---
 
@@ -24,19 +27,19 @@ I build software that real teams actually use: internal operations tools by day,
 
 ### Selected Open-Source Projects
 
-**[Quant-toolkit](https://github.com/apeabody007/Quant-toolkit)** · Python · MIT
+**[Quant-toolkit](https://github.com/apeabody007/Quant-toolkit)** · Python · MIT <br>
 A Cowork/Claude plugin for prediction-market trading: Kelly sizing, calibration audits, a backtest harness, EMOS bias correction, P&L attribution, maker pricing, and pre-flight safety checks. Venue-agnostic.
 
-**[GEO – The Kalshi Weather Bot (DEMO)](https://github.com/apeabody007/GEO-The-Kalshi-Weather-Bot-DEMO) (full repo is private)** · Python · PWA
+**[GEO – The Kalshi Weather Bot (DEMO)](https://github.com/apeabody007/GEO-The-Kalshi-Weather-Bot-DEMO) (full repo is private)** · Python · PWA <br>
 A real-money algorithmic trading bot on Kalshi's CFTC-regulated weather markets. Six-model ensemble with per-station bias correction and quarter-Kelly sizing, identifying mispriced YES/NO contracts on daily high temps across 20 U.S. cities.
 
-**[Digits](https://github.com/apeabody007/Digits)** · Python · MIT
+**[Digits](https://github.com/apeabody007/Digits)** · Python · MIT <br>
 A zero-dependency MCP server + Claude plugin that connects Claude to Apple Numbers via AppleScript: read, write, and manipulate spreadsheets directly.
 
-**[Pokémon: Gengar Edition](https://github.com/apeabody007/Pokemon-Gengar-Edition-Emerald-Hack-)** · Python
+**[Pokémon: Gengar Edition](https://github.com/apeabody007/Pokemon-Gengar-Edition-Emerald-Hack-)** · Python <br>
 A Pokémon: Emerald ROM hack: Gastly as a starter that evolves to Gengar without trading, a 36-move learnset, wild legendaries, and 7 more quality-of-life updates.
 
-**O.C. and the Fifth Sun** · GDScript (Godot 4)
+**O.C. and the Fifth Sun** · GDScript (Godot 4) <br>
 A top-down Aztec-myth action game and my playground for game-feel, state machines, and engine work. References are Mina the Hollower, Blasphemous, and Hollow Knight.
 
 ---
