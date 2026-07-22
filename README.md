@@ -8,7 +8,7 @@ B.A. Economics (UW–Madison) · B.S. Psychology (UCF)
 
 ---
 
-### At home
+### Projects
 
 **[Quant-toolkit](https://github.com/apeabody007/Quant-toolkit)** · Python · MIT <br>
 A Cowork/Claude plugin for prediction-market trading: Kelly sizing, calibration audits, a backtest harness, EMOS bias correction, P&L attribution, maker pricing, and pre-flight safety checks. Venue-agnostic.
