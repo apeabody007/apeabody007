@@ -13,7 +13,7 @@ B.A. Economics (UW–Madison) · B.S. Psychology (UCF)
 **[Quant-toolkit](https://github.com/apeabody007/Quant-toolkit)** · Python · MIT <br>
 A Cowork/Claude plugin for prediction-market trading: Kelly sizing, calibration audits, a backtest harness, EMOS bias correction, P&L attribution, maker pricing, and pre-flight safety checks. Venue-agnostic.
 
-**[GEO – The Kalshi Weather Bot](https://github.com/apeabody007/GEO-The-Kalshi-Weather-Bot-DEMO)** · Python · PWA · demo repo, full source private <br>
+**[GEO – The Kalshi Weather Bot](https://github.com/apeabody007/GEO-The-Kalshi-Weather-Bot-DEMO)** · Python · PWA · [live demo](https://apeabody007.github.io/GEO-The-Kalshi-Weather-Bot-DEMO/) · demo repo, full source private <br>
 A real-money algorithmic trading bot on Kalshi's CFTC-regulated weather markets. Six-model ensemble with per-station bias correction and quarter-Kelly sizing, identifying mispriced YES/NO contracts on daily high temps across 20 U.S. cities.
 
 **[Digits](https://github.com/apeabody007/Digits)** · Python · MIT <br>
