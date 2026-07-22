@@ -1,36 +1,19 @@
-# Hi, I'm Aaron Peabody. /wave 
+# Hi, I'm Aaron Peabody. /wave
 
 **Director of Technology / Senior Project Manager @ Doctor Asphalt LLC**
 
-I build software that real teams actually use: internal operations tools by day, and a steady stream of Python systems, Claude plugins, and game projects on my own time. I like turning a messy real-world process into something that runs on clean data and a smooth interface.
+I build software that real teams actually use: internal operations tools by day, and Python systems, Claude plugins, and game projects on my own time. I like turning a messy real-world process into something that runs on clean data and a smooth interface.
 
-**At work:** Promoted to Director of Technology, where I am building **DA Intelligence**, a TypeScript monorepo housing a field **Crew App** (React Native / Expo) and a real-time **operations dashboard** (web), while still running regional projects as Senior PM. <br>
-**On my own:** prediction-market quant systems, MCP servers, and the odd game engine.
-
-- B.A. Economics (UW–Madison)
-- B.S. Psychology (UCF)
+B.A. Economics (UW–Madison) · B.S. Psychology (UCF)
 
 ---
 
-### What I'm building at work
-
-**DA Intelligence**: a TypeScript monorepo (pnpm workspaces) for Doctor Asphalt's operations team, live in production:
-
-- **Crew App**: a React Native / Expo mobile app putting scheduling, job details, time tracking, and daily cost reporting in field crews' hands across multiple crews.
-- **Operations Dashboard**: a web app giving the ops team a real-time view of project status, crew utilization, job estimates, and scheduling.
-- **Job costing & profitability**: next-day bid-vs-actual margin tracking across projects, fed by crew-submitted daily actuals and imported estimate data.
-- **Finance, fleet, and safety modules**: expense visibility, vehicle tracking, and field safety reporting in one place.
-- **Integrations & automation**: Google Drive document storage, QuickBooks sync, and automated email digests (Resend).
-- **Platform**: shared tRPC API, PostgreSQL + Drizzle ORM, Clerk authentication with role-based access and an admin "view as" role preview, GitHub Actions CI/CD, and over-the-air mobile releases via EAS Update.
-
----
-
-### Selected Open-Source Projects
+### Projects
 
 **[Quant-toolkit](https://github.com/apeabody007/Quant-toolkit)** · Python · MIT <br>
 A Cowork/Claude plugin for prediction-market trading: Kelly sizing, calibration audits, a backtest harness, EMOS bias correction, P&L attribution, maker pricing, and pre-flight safety checks. Venue-agnostic.
 
-**[GEO – The Kalshi Weather Bot (DEMO)](https://github.com/apeabody007/GEO-The-Kalshi-Weather-Bot-DEMO) (full repo is private)** · Python · PWA <br>
+**[GEO – The Kalshi Weather Bot](https://github.com/apeabody007/GEO-The-Kalshi-Weather-Bot-DEMO)** · Python · PWA · demo repo, full source private <br>
 A real-money algorithmic trading bot on Kalshi's CFTC-regulated weather markets. Six-model ensemble with per-station bias correction and quarter-Kelly sizing, identifying mispriced YES/NO contracts on daily high temps across 20 U.S. cities.
 
 **[Digits](https://github.com/apeabody007/Digits)** · Python · MIT <br>
@@ -39,12 +22,18 @@ A zero-dependency MCP server + Claude plugin that connects Claude to Apple Numbe
 **[Pokémon: Gengar Edition](https://github.com/apeabody007/Pokemon-Gengar-Edition-Emerald-Hack-)** · Python <br>
 A Pokémon: Emerald ROM hack: Gastly as a starter that evolves to Gengar without trading, a 36-move learnset, wild legendaries, and 7 more quality-of-life updates.
 
-**O.C. and the Fifth Sun** · GDScript (Godot 4) <br>
+**O.C. and the Fifth Sun** · GDScript (Godot 4) · private <br>
 A top-down Aztec-myth action game and my playground for game-feel, state machines, and engine work. References are Mina the Hollower, Blasphemous, and Hollow Knight.
 
 ---
 
-### Tech/Languages/Software
+### At work
+
+**DA Intelligence** (private) is Doctor Asphalt's operations platform, live in production. A TypeScript monorepo housing a React Native / Expo crew app that puts scheduling, time tracking, and daily cost reporting in field crews' hands, plus a web dashboard giving the ops team real-time project status, crew utilization, and next-day bid-vs-actual margins. Built on tRPC, PostgreSQL / Drizzle ORM, and Clerk role-based auth, with Google Drive and QuickBooks integrations and over-the-air mobile releases. I still run regional projects as Senior PM.
+
+---
+
+### Tech
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-333?logo=python)
@@ -54,18 +43,11 @@ A top-down Aztec-myth action game and my playground for game-feel, state machine
 ![SQLite](https://img.shields.io/badge/-SQLite-333?logo=sqlite)
 ![GDScript](https://img.shields.io/badge/-GDScript-333?logo=godotengine)
 
-**Languages:** TypeScript · Python · GDScript <br>
-**Stack:** React Native / Expo · pnpm monorepos · PostgreSQL / Drizzle ORM · tRPC · Clerk · GitHub Actions CI/CD · EAS over-the-air deploys · PWAs <br>
 **Domains:** field operations & job-costing platforms · MCP servers & Claude plugins · algorithmic trading & probabilistic forecasting · game dev (Godot)
 
 ---
 
-### 📫 
+### 📫
 
 - LinkedIn: [in/aaronpeabody7](https://www.linkedin.com/in/aaronpeabody7)
 - Email: apeabody@uwalumni.com
-
-<!--
-  Optional stats card, uncomment if you want it:
-  ![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=apeabody007&show_icons=true)
--->
