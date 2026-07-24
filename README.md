@@ -36,6 +36,10 @@ A top-down Aztec-myth action game and my playground for game-feel, state machine
 ### Tech
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?logo=typescript)
+![Next.js](https://img.shields.io/badge/-Next.js-333?logo=nextdotjs)
+![Vercel](https://img.shields.io/badge/-Vercel-333?logo=vercel)
+![Drizzle](https://img.shields.io/badge/-Drizzle-333?logo=drizzle)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-333?logo=githubactions)
 ![Python](https://img.shields.io/badge/-Python-333?logo=python)
 ![React Native](https://img.shields.io/badge/-React_Native-333?logo=react)
 ![Expo](https://img.shields.io/badge/-Expo-333?logo=expo)
