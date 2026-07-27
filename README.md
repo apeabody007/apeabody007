@@ -13,7 +13,7 @@ B.A. Economics (UW–Madison) · B.S. Psychology (UCF)
 **[WagePin](https://wagepin.com)** · TypeScript · Next.js · source private <br>
 Davis-Bacon prevailing wage monitoring for contractors. Pins the wage determination revision that legally applied on your bid date (FAR 22.404-6), shows classification-level diffs when DOL revises rates, and emails alerts on substantive changes. Covers all 50 states plus DC, refreshed nightly from SAM.gov.
 
-**[GEO – The Kalshi Weather Bot](https://github.com/apeabody007/GEO-The-Kalshi-Weather-Bot-DEMO)** · Python · PWA · [live demo](https://apeabody007.github.io/GEO-The-Kalshi-Weather-Bot-DEMO/) · demo repo, full source private <br>
+**[GEO – The Kalshi Weather Bot-DEMO](https://github.com/apeabody007/GEO-The-Kalshi-Weather-Bot-DEMO)** · Python · PWA · [live demo](https://apeabody007.github.io/GEO-The-Kalshi-Weather-Bot-DEMO/) · demo repo, full source private <br>
 A real-money algorithmic trading bot on Kalshi's CFTC-regulated weather markets. Six-model ensemble with per-station bias correction and quarter-Kelly sizing, identifying mispriced YES/NO contracts on daily high temps across 20 U.S. cities.
 
 **[Quant-toolkit](https://github.com/apeabody007/Quant-toolkit)** · Python · MIT <br>
