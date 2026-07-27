@@ -10,7 +10,7 @@ B.A. Economics (UW–Madison) · B.S. Psychology (UCF)
 
 ### Projects
 
-**[WagePin](https://wagepin.com)** · TypeScript · Next.js · [live at wagepin.com](https://wagepin.com) · source private <br>
+**[WagePin](https://wagepin.com)** · TypeScript · Next.js · source private <br>
 Davis-Bacon prevailing wage monitoring for contractors. Pins the wage determination revision that legally applied on your bid date (FAR 22.404-6), shows classification-level diffs when DOL revises rates, and emails alerts on substantive changes. Covers all 50 states plus DC, refreshed nightly from SAM.gov.
 
 **[Quant-toolkit](https://github.com/apeabody007/Quant-toolkit)** · Python · MIT <br>
