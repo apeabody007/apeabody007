@@ -1,4 +1,4 @@
-# Hi, I'm Aaron Peabody. /wave
+# Hi, I'm Aaron Peabody.
 
 **Director of Technology / Senior Project Manager @ Doctor Asphalt LLC**
 
