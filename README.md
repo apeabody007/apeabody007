@@ -10,23 +10,16 @@ B.A. Economics (UW–Madison) · B.S. Psychology (UCF)
 
 ### Projects
 
-**[WagePin](https://wagepin.com)** · TypeScript · Next.js · source private <br>
-Davis-Bacon prevailing wage monitoring for contractors. Pins the wage determination revision that legally applied on your bid date (FAR 22.404-6), shows classification-level diffs when DOL revises rates, and emails alerts on substantive changes. Covers all 50 states plus DC, refreshed nightly from SAM.gov.
-
 **[GEO – The Kalshi Weather Bot](https://github.com/apeabody007/GEO-The-Kalshi-Weather-Bot-DEMO)** · Python · PWA · [live demo](https://apeabody007.github.io/GEO-The-Kalshi-Weather-Bot-DEMO/) · demo repo, full source private <br>
 A real-money algorithmic trading bot on Kalshi's CFTC-regulated weather markets. Six-model ensemble with per-station bias correction and quarter-Kelly sizing, identifying mispriced YES/NO contracts on daily high temps across 20 U.S. cities.
 
-**[Quant-toolkit](https://github.com/apeabody007/Quant-toolkit)** · Python · MIT <br>
-A Cowork/Claude plugin for prediction-market trading: Kelly sizing, calibration audits, a backtest harness, EMOS bias correction, P&L attribution, maker pricing, and pre-flight safety checks. Venue-agnostic.
+**[WagePin](https://wagepin.com)** · TypeScript · Next.js · source private <br>
+Davis-Bacon prevailing wage monitoring for contractors. Pins the wage determination revision that legally applied on your bid date (FAR 22.404-6), shows classification-level diffs when DOL revises rates, and emails alerts on substantive changes. Covers all 50 states plus DC, refreshed nightly from SAM.gov.
 
-**[Digits](https://github.com/apeabody007/Digits)** · Python · MIT <br>
-A zero-dependency MCP server + Claude plugin that connects Claude to Apple Numbers via AppleScript: read, write, and manipulate spreadsheets directly.
+**[PipeBook](https://apps.apple.com/us/app/pipebook-pipefitter-reference/id6795305963)** · TypeScript · Expo / React Native · source private <br>
+A pipefitter's pocket reference and field calculators, live on the iOS App Store. One-time purchase, fully offline, no ads or subscription. Trade data is cross-verified across published manufacturer catalogs, and every calculator formula is backed by a 900+ assertion math audit.
 
-**[Pokémon: Gengar Edition](https://github.com/apeabody007/Pokemon-Gengar-Edition-Emerald-Hack-)** · Python <br>
-A Pokémon: Emerald ROM hack: Gastly as a starter that evolves to Gengar without trading, a 36-move learnset, wild legendaries, and 7 more quality-of-life updates.
-
-**O.C. and the Fifth Sun** · GDScript (Godot 4) · private <br>
-A top-down Aztec-myth action game and my playground for game-feel, state machines, and engine work. References are Mina the Hollower, Blasphemous, and Hollow Knight.
+**Also:** [Quant-toolkit](https://github.com/apeabody007/Quant-toolkit) and [Digits](https://github.com/apeabody007/Digits), open-source Claude plugins (MIT) · **O.C. and the Fifth Sun**, a top-down Aztec-myth action game in Godot 4 (private) · [Pokémon: Gengar Edition](https://github.com/apeabody007/Pokemon-Gengar-Edition-Emerald-Hack-), an Emerald ROM hack
 
 ---
 
