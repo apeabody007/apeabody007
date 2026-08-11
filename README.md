@@ -25,7 +25,7 @@ A pipefitter's pocket reference and field calculators, live on the iOS App Store
 
 ### At work
 
-**DA Intelligence** (private) is Doctor Asphalt's operations platform, live in production. A TypeScript monorepo housing a React Native / Expo crew app that puts scheduling, time tracking, and daily cost reporting in field crews' hands, plus a web dashboard giving the ops team real-time project status, crew utilization, and next-day bid-vs-actual margins. Built on tRPC, PostgreSQL / Drizzle ORM, and Clerk role-based auth, with Google Drive and QuickBooks integrations and over-the-air mobile releases. I still run regional projects as Senior PM when im not on my keyboard.
+**DA Intelligence** (private) is Doctor Asphalt's operations platform, live in production. A TypeScript monorepo housing a React Native / Expo crew app that puts scheduling, time tracking, and daily cost reporting in field crews' hands, plus a web dashboard giving the ops team real-time project status, crew utilization, and next-day bid-vs-actual margins. Built on tRPC, PostgreSQL / Drizzle ORM, and Clerk role-based auth, with Google Drive and QuickBooks integrations and over-the-air mobile releases. I still run regional projects as Senior PM.
 
 ---
 
