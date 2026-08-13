@@ -43,9 +43,11 @@ A pipefitter's pocket reference and field calculators, live on the iOS App Store
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?logo=postgresql)
 ![Neon](https://img.shields.io/badge/-Neon-333?logo=neon)
 ![SQLite](https://img.shields.io/badge/-SQLite-333?logo=sqlite)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333?logo=fastapi)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333?logo=pytorch)
 ![GDScript](https://img.shields.io/badge/-GDScript-333?logo=godotengine)
 
-**Domains:** field operations & job-costing platforms · MCP servers & Claude plugins · algorithmic trading & probabilistic forecasting · game dev (Godot)
+**Domains:** field operations & job-costing platforms · geospatial ML & aerial-imagery takeoffs · consumer iOS apps · MCP servers & Claude plugins · algorithmic trading & probabilistic forecasting · game dev (Godot)
 
 ---
 
