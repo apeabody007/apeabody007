@@ -54,4 +54,4 @@ A pipefitter's pocket reference and field calculators, live on the iOS App Store
 ### 📫
 
 - LinkedIn: [in/aaronpeabody7](https://www.linkedin.com/in/aaronpeabody7)
-- Email: apeabody@uwalumni.com
+- Email: aaronpeabody7@gmail.com
