@@ -16,7 +16,7 @@ A real-money algorithmic trading bot on Kalshi's CFTC-regulated weather markets.
 **[WagePin](https://wagepin.com)** · TypeScript · Next.js · source private <br>
 Davis-Bacon prevailing wage monitoring for contractors. Pins the wage determination revision that legally applied on your bid date (FAR 22.404-6), shows classification-level diffs when DOL revises rates, and emails alerts on substantive changes. Covers all 50 states plus DC, refreshed nightly from SAM.gov.
 
-**[PipeBook](https://apps.apple.com/us/app/pipebook-pipefitter-reference/id6795305963)** · TypeScript · Expo / React Native · source private <br>
+**[PipeBook](https://pipebook.app)** · TypeScript · Expo / React Native · source private <br>
 A pipefitter's pocket reference and field calculators, live on the iOS App Store. One-time purchase, fully offline, no ads or subscription. Trade data is cross-verified across published manufacturer catalogs, and every calculator formula is backed by a 900+ assertion math audit.
 
 **Also:** [Quant-toolkit](https://github.com/apeabody007/Quant-toolkit) and [Digits](https://github.com/apeabody007/Digits), open-source Claude plugins (MIT) · **O.C. and the Fifth Sun**, a top-down Aztec-myth action game in Godot 4 (private) · [Pokémon: Gengar Edition](https://github.com/apeabody007/Pokemon-Gengar-Edition-Emerald-Hack-), an Emerald ROM hack
