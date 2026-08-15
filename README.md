@@ -9,13 +9,13 @@ I build software that real teams actually use: internal operations tools by day,
 ### Projects
 
 **[PipeBook](https://pipebook.app)** · TypeScript · Expo / React Native · [App Store](https://apps.apple.com/us/app/pipebook-pipefitter-reference/id6795305963) · source private <br>
-A pipefitter's pocket reference and field calculators, live on the iOS App Store. One-time purchase, fully offline, no ads or subscription. Trade data is cross-verified across published manufacturer catalogs, and every calculator formula is backed by a 900+ assertion math audit.
+A pipefitter's pocket reference and field calculators, live on the iOS App Store, where it peaked at #23 in paid Productivity. One-time purchase, fully offline, no ads or subscription. Trade data is cross-verified across published manufacturer catalogs, and every calculator formula is backed by a 900+ assertion math audit.
 
 **[WagePin](https://wagepin.com)** · TypeScript · Next.js · source private <br>
 Davis-Bacon prevailing wage monitoring for contractors. Pins the wage determination revision that legally applied on your bid date (FAR 22.404-6), shows classification-level diffs when DOL revises rates, and emails alerts on substantive changes. Covers all 50 states plus DC, refreshed nightly from SAM.gov.
 
 **[GEO – The Kalshi Weather Bot](https://github.com/apeabody007/GEO-The-Kalshi-Weather-Bot-DEMO)** · Python · PWA · [live demo](https://apeabody007.github.io/GEO-The-Kalshi-Weather-Bot-DEMO/) · demo repo, full source private <br>
-A real-money algorithmic trading bot on Kalshi's CFTC-regulated weather markets. Six-model ensemble with per-station bias correction and quarter-Kelly sizing, identifying mispriced YES/NO contracts on daily high temps across 20 U.S. cities.
+A real-money algorithmic trading bot on Kalshi's CFTC-regulated weather markets. Six-model ensemble with per-station bias correction and quarter-Kelly sizing, identifying mispriced YES/NO contracts on daily high temps across 20 U.S. cities. Python 3.11, 600+ tests.
 
 ---
 
@@ -23,6 +23,9 @@ A real-money algorithmic trading bot on Kalshi's CFTC-regulated weather markets.
 
 **[Quant-toolkit](https://github.com/apeabody007/Quant-toolkit)** · Python · MIT <br>
 A Claude plugin for prediction-market trading: Kelly sizing, calibration audits, a backtest harness, EMOS bias correction, P&L attribution, maker pricing, and pre-flight safety checks. Venue-agnostic.
+
+**[cmdk-piano](https://github.com/apeabody007/cmdk-piano)** · JavaScript · MIT · [play it](https://apeabody007.github.io/cmdk-piano/) <br>
+A playable piano for any website, on Cmd+K. One script tag, no dependencies and no audio files: every note is synthesized in the browser with Web Audio, so the whole thing is 4.3KB over the wire. It started as an easter egg on [aaronpeabody.dev](https://aaronpeabody.dev).
 
 **[Digits](https://github.com/apeabody007/Digits)** · Python · MIT <br>
 A zero-dependency MCP server and Claude plugin that connects Claude to Apple Numbers via AppleScript: read, write, and manipulate spreadsheets directly.
