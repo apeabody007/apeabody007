@@ -45,4 +45,4 @@ B.A. Economics (UW–Madison) · B.S. Psychology (UCF)
 
 ---
 
-<a href="mailto:aaronpeabody7@gmail.com" title="Email Aaron">📫</a>
+<p align="center"><a href="mailto:aaronpeabody7@gmail.com" title="Email Aaron">📫</a></p>
