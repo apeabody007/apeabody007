@@ -2,7 +2,7 @@
 
 **Director of Technology / Senior Project Manager**
 
-I build software that real teams actually use: internal operations tools by day, and Python systems, Claude plugins, and game projects on my own time. I like turning a messy real-world process into something that runs on clean data and a smooth interface.
+I build software and apps that real teams actually use: internal operations tools by day, Python systems, Claude plugins, and game projects on my own time. I like turning a messy real-world process into something that runs on clean data and a user-friendly interface.
 
 ---
 
