@@ -4,7 +4,7 @@
 
 I build software that real crews and estimators rely on every day. The biggest thing I’ve shipped (and keep shipping) is the ops platform for a Midwest paving company (estimating, scheduling, job costing, and satellite auto-takeoff), designed around one metric: actual cost the day after the job.
 
-Side work stays in the same lane: PipeBook (#23 Paid Productivity), WagePin, Python systems, Claude plugins, and game prototypes. Small, sharp tools. No subscriptions. Built to be used.
+Side work: PipeBook (#23 Paid Productivity), WagePin, Python systems, Claude plugins, and game prototypes. Small, sharp tools. No subscriptions. Built to be used.
 
 ---
 
