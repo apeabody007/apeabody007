@@ -2,7 +2,7 @@
 
 **Director of Technology / Senior Project Manager**
 
-I build software that real crews and estimators rely on every day. The biggest thing I’ve built (and keep building) is the ops platform for [Doctor Asphalt LLC](https://doctorasphaltllc.com) (estimating, scheduling, job costing, and satellite auto-takeoff), designed around one metric: actual cost the day after the job.
+I build software that real crews and estimators rely on every day. The biggest thing I'm building is the ops platform for [Doctor Asphalt LLC](https://doctorasphaltllc.com) (estimating, scheduling, job costing, and satellite auto-takeoff), designed around one metric: actual cost the day after the job.
 
 Side work: PipeBook (#23 Paid Productivity), WagePin, Python systems, Claude plugins, and game prototypes. Small, sharp tools. No subscriptions. Built to be used.
 
