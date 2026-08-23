@@ -16,8 +16,8 @@ A pipefitter's pocket reference and field calculators, live on the iOS App Store
 **[WagePin](https://wagepin.com)** · TypeScript · Next.js · source private <br>
 Davis-Bacon prevailing wage monitoring for contractors. Pins the wage determination revision that legally applied on your bid date (FAR 22.404-6), shows classification-level diffs when DOL revises rates, and emails alerts on substantive changes. Covers all 50 states plus DC, refreshed nightly from SAM.gov.
 
-**[GEO – The Kalshi Weather Bot](https://github.com/apeabody007/GEO-The-Kalshi-Weather-Bot-DEMO)** · Python · PWA · [live demo](https://apeabody007.github.io/GEO-The-Kalshi-Weather-Bot-DEMO/) · demo repo, full source private <br>
-A real-money algorithmic trading bot on Kalshi's CFTC-regulated weather markets. Six-model ensemble with per-station bias correction and quarter-Kelly sizing, identifying mispriced YES/NO contracts on daily high temps across 20 U.S. cities. Python 3.11, 600+ tests.
+**[GEO: The Kalshi Weather Bot](https://github.com/apeabody007/GEO-The-Kalshi-Weather-Bot-DEMO)** · Python · PWA · [live demo](https://apeabody007.github.io/GEO-The-Kalshi-Weather-Bot-DEMO/) · demo repo, full source private <br>
+An algorithmic trading bot that ran seven weeks of real money on Kalshi's CFTC-regulated weather markets. Six-model ensemble with per-station bias correction and quarter-Kelly sizing, identifying mispriced YES/NO contracts on daily high temps across 20 U.S. cities. Python 3.11, 600+ tests.
 
 ---
 
@@ -27,7 +27,7 @@ A real-money algorithmic trading bot on Kalshi's CFTC-regulated weather markets.
 A Claude plugin for prediction-market trading: Kelly sizing, calibration audits, a backtest harness, EMOS bias correction, P&L attribution, maker pricing, and pre-flight safety checks. Venue-agnostic.
 
 **[cmdk-piano](https://github.com/apeabody007/cmdk-piano)** · JavaScript · MIT · [play it](https://apeabody007.github.io/cmdk-piano/) <br>
-A playable piano for any website, on Cmd+K. One script tag, no dependencies and no audio files: every note is synthesized in the browser with Web Audio, so the whole thing is 4.3KB over the wire. It started as an easter egg on [aaronpeabody.dev](https://aaronpeabody.dev).
+A playable piano for any website, on Cmd+K. One script tag, no dependencies and no audio files: every note is synthesized in the browser with Web Audio, so the whole thing is under 5KB over the wire. It started as an easter egg on [aaronpeabody.dev](https://aaronpeabody.dev).
 
 **[Digits](https://github.com/apeabody007/Digits)** · Python · MIT <br>
 A zero-dependency MCP server and Claude plugin that connects Claude to Apple Numbers via AppleScript: read, write, and manipulate spreadsheets directly.
@@ -41,7 +41,7 @@ A floating vitals readout for Apple Silicon Macs: CPU, GPU, memory and die tempe
 
 ### At work
 
-**DA Intelligence** (private) is Doctor Asphalt's operations platform, live in production. A TypeScript monorepo housing a React Native / Expo crew app that puts scheduling, time tracking, and daily cost reporting in field crews' hands, plus a web dashboard giving the ops team real-time project status, crew utilization, and next-day bid-vs-actual margins. Built on tRPC, PostgreSQL / Drizzle ORM, and Clerk role-based auth, with Google Drive and QuickBooks integrations and over-the-air mobile releases. I still run regional projects as Senior PM.
+**DA Intelligence** (private) is Doctor Asphalt's operations platform, live in production. A TypeScript monorepo housing a React Native / Expo crew app that puts scheduling, time tracking, and daily cost reporting in field crews' hands, plus a web dashboard giving the ops team real-time project status, crew utilization, and next-day bid-vs-actual margins. Built on an Express REST API, PostgreSQL / Drizzle ORM, and Clerk role-based auth, with Google Drive and QuickBooks integrations and over-the-air mobile releases. I still run regional projects as Senior PM.
 
 ---
 
