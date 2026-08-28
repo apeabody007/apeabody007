@@ -35,7 +35,7 @@ A zero-dependency MCP server and Claude plugin that connects Claude to Apple Num
 **[Redline](https://github.com/apeabody007/redline)** · Swift · MIT · [download](https://github.com/apeabody007/redline/releases/latest) <br>
 A floating vitals readout for Apple Silicon Macs: CPU, GPU, memory and die temperature in one always-on-top pill, plus a warning the moment macOS starts thermal throttling. Signed and notarized, no dock icon, no dependencies.
 
-**Also:** **[Pokémon: Gengar Edition](https://github.com/apeabody007/Pokemon-Gengar-Edition-Emerald-Hack-), an Emerald ROM hack and O.C. and the Fifth Sun**, a top-down Aztec-myth action game in Godot 4 (private)
+**Also:** **[Pokémon: Gengar Edition](https://github.com/apeabody007/Pokemon-Gengar-Edition-Emerald-Hack-) (Emerald ROM hack) and O.C. and the Fifth Sun**, a top-down Aztec-myth action game in Godot 4 (private)
 
 ---
 
