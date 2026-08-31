@@ -17,7 +17,7 @@ A pipefitter's pocket reference and field calculators, live on the iOS App Store
 Davis-Bacon prevailing wage monitoring for contractors. Pins the wage determination revision that legally applied on your bid date (FAR 22.404-6), shows classification-level diffs when DOL revises rates, and emails alerts on substantive changes. Covers all 50 states plus DC, refreshed nightly from SAM.gov.
 
 **[GEO: The Kalshi Weather Bot](https://github.com/apeabody007/GEO-The-Kalshi-Weather-Bot-DEMO)** · Python · PWA · [live demo](https://apeabody007.github.io/GEO-The-Kalshi-Weather-Bot-DEMO/) · demo repo, full source private <br>
-An algorithmic trading bot that ran seven weeks of real money on Kalshi's CFTC-regulated weather markets. Six-model ensemble with per-station bias correction and quarter-Kelly sizing, identifying mispriced YES/NO contracts on daily high temps across 20 U.S. cities. Python 3.11, 600+ tests.
+An algorithmic trading bot on Kalshi's CFTC-regulated weather markets. Six-model ensemble with per-station bias correction and quarter-Kelly sizing, identifying mispriced YES/NO contracts on daily high temps across 20 U.S. cities. Python 3.11, 600+ tests.
 
 ---
 
