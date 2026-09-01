@@ -23,19 +23,22 @@ An algorithmic trading bot on Kalshi's CFTC-regulated weather markets. Six-model
 
 ### Open source
 
-**[Quant-toolkit](https://github.com/apeabody007/Quant-toolkit)** · Python · MIT <br>
-A Claude plugin for prediction-market trading: Kelly sizing, calibration audits, a backtest harness, EMOS bias correction, P&L attribution, maker pricing, and pre-flight safety checks. Venue-agnostic.
-
-**[cmdk-piano](https://github.com/apeabody007/cmdk-piano)** · JavaScript · MIT · [play it](https://apeabody007.github.io/cmdk-piano/) <br>
-A playable piano for any website, on Cmd+K. One script tag, no dependencies and no audio files: every note is synthesized in the browser with Web Audio, so the whole thing is under 5KB over the wire. It started as an easter egg on [aaronpeabody.dev](https://aaronpeabody.dev).
-
-**[Digits](https://github.com/apeabody007/Digits)** · Python · MIT <br>
-A zero-dependency MCP server and Claude plugin that connects Claude to Apple Numbers via AppleScript: read, write, and manipulate spreadsheets directly.
+**[TimeTurner](https://github.com/apeabody007/timeturner)** · Swift · MIT · [download](https://github.com/apeabody007/timeturner/releases/latest) <br>
+A menu bar hourglass for the Mac. The glass is drawn entirely from keyboard characters, a live falling-sand simulation drains it over the real clock hour, and it turns itself over at :00. Pomodoro runs on a universal clock grid with no start button: you join the slot already in progress. Signed and notarized, no dependencies.
 
 **[Redline](https://github.com/apeabody007/redline)** · Swift · MIT · [download](https://github.com/apeabody007/redline/releases/latest) <br>
 A floating vitals readout for Apple Silicon Macs: CPU, GPU, memory and die temperature in one always-on-top pill, plus a warning the moment macOS starts thermal throttling. Signed and notarized, no dock icon, no dependencies.
 
-**Also:** **[Pokémon: Gengar Edition](https://github.com/apeabody007/Pokemon-Gengar-Edition-Emerald-Hack-) (Emerald ROM hack) and O.C. and the Fifth Sun**, a top-down Aztec-myth action game in Godot 4 (private)
+**[cmdk-piano](https://github.com/apeabody007/cmdk-piano)** · JavaScript · MIT · [play it](https://apeabody007.github.io/cmdk-piano/) <br>
+A playable piano for any website, on Cmd+K. One script tag, no dependencies and no audio files: every note is synthesized in the browser with Web Audio, so the whole thing is under 5KB over the wire. It started as an easter egg on [aaronpeabody.dev](https://aaronpeabody.dev).
+
+**[Quant-toolkit](https://github.com/apeabody007/Quant-toolkit)** · Python · MIT <br>
+A Claude plugin for prediction-market trading: Kelly sizing, calibration audits, a backtest harness, EMOS bias correction, P&L attribution, maker pricing, and pre-flight safety checks. Venue-agnostic, distilled from the live bot above.
+
+**[Digits](https://github.com/apeabody007/Digits)** · Python · MIT <br>
+A zero-dependency MCP server and Claude plugin that connects Claude to Apple Numbers via AppleScript: read, write, and manipulate spreadsheets directly.
+
+**Also:** [Pokémon: Gengar Edition](https://github.com/apeabody007/Pokemon-Gengar-Edition-Emerald-Hack-), an Emerald ROM hack · **O.C. and the Fifth Sun**, a top-down Aztec-myth action game in Godot 4 (private)
 
 ---
 
