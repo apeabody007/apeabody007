@@ -16,7 +16,7 @@ A pipefitter's pocket reference and field calculators, live on the iOS App Store
 **[WagePin](https://wagepin.com)** · TypeScript · Next.js · source private <br>
 Davis-Bacon prevailing wage monitoring for contractors. Pins the wage determination revision that legally applied on your bid date (FAR 22.404-6), shows classification-level diffs when DOL revises rates, and emails alerts on substantive changes. Covers all 50 states plus DC, refreshed nightly from SAM.gov.
 
-**[GEO: The Kalshi Weather Bot](https://github.com/apeabody007/GEO-The-Kalshi-Weather-Bot-DEMO)** · Python · PWA · [live demo](https://apeabody007.github.io/GEO-The-Kalshi-Weather-Bot-DEMO/) · demo repo, full source private <br>
+**[GEO: The Kalshi Weather Bot](https://github.com/apeabody007/geo-demo)** · Python · PWA · [live demo](https://apeabody007.github.io/geo-demo/) · demo repo, full source private <br>
 An algorithmic trading bot on Kalshi's CFTC-regulated weather markets. Six-model ensemble with per-station bias correction and quarter-Kelly sizing, identifying mispriced YES/NO contracts on daily high temps across 20 U.S. cities. Python 3.11, 600+ tests.
 
 ---
@@ -35,10 +35,16 @@ A playable piano for any website, on Cmd+K. One script tag, no dependencies and 
 **[Quant-toolkit](https://github.com/apeabody007/Quant-toolkit)** · Python · MIT <br>
 A Claude plugin for prediction-market trading: Kelly sizing, calibration audits, a backtest harness, EMOS bias correction, P&L attribution, maker pricing, and pre-flight safety checks. Venue-agnostic, distilled from the live bot above.
 
+**[futurepickleballcourt](https://github.com/apeabody007/futurepickleballcourt)** · Python · open data · [live](https://futurepickleballcourt.com) <br>
+What communities actually signed with data centers: every executed agreement scored against the same ten terms, with a citation to the page or section that backs each one. One JSON file per deal, unknown shown as unknown rather than as a pass or a fail, and corrections by pull request or by email with no GitHub account needed.
+
 **[Digits](https://github.com/apeabody007/Digits)** · Python · MIT <br>
 A zero-dependency MCP server and Claude plugin that connects Claude to Apple Numbers via AppleScript: read, write, and manipulate spreadsheets directly.
 
-**Also:** [Pokémon: Gengar Edition](https://github.com/apeabody007/Pokemon-Gengar-Edition-Emerald-Hack-), an Emerald ROM hack · **O.C. and the Fifth Sun**, a top-down Aztec-myth action game in Godot 4 (private)
+**[Where's Fly-do?](https://github.com/apeabody007/flydo)** · JavaScript · MIT · [play it](https://apeabody007.github.io/flydo/) <br>
+Ten fruit flies, wired from a real fly's connectome, learn to find the striped guy in a crowd. Then you race one. Each fly sees through an eye with a real fly's facet count and learns with mushroom bodies wired from the 2026 male CNS wiring diagram. Flies that can't learn find him about one time in eight; flies that learn settle at nine in ten. No build step, runs on phones.
+
+**Also:** [Pokémon: Gengar Edition](https://github.com/apeabody007/gengar-edition), an Emerald ROM hack · **O.C. and the Fifth Sun**, a top-down Aztec-myth action game in Godot 4 (private)
 
 ---
 
