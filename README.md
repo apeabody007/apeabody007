@@ -58,7 +58,7 @@ Ten fruit flies, wired from a real fly's connectome, learn to find the striped g
 
 Field operations & job-costing platforms · geospatial ML & aerial-imagery takeoffs · consumer iOS apps · MCP servers & Claude plugins · algorithmic trading & probabilistic forecasting · game dev (Godot)
 
-B.A. Economics (UW–Madison) · B.S. Psychology (UCF)
+B.A. Economics (UW–Madison '18) · B.S. Psychology (UCF '23)
 
 ---
 
