@@ -62,4 +62,4 @@ B.A. Economics (UW–Madison '18) · B.S. Psychology (UCF '23)
 
 ---
 
-<p align="center"><a href="mailto:aaronpeabody7@gmail.com" title="Email Aaron">📬</a></p>
+<p align="center"><a href="mailto:aaron@aaronpeabody.dev" title="Email Aaron">📬</a></p>
